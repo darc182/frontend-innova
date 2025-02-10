@@ -44,7 +44,7 @@ const CategoriaPage = () => {
               />
               <div className="p-4">
                 <h3 className="text-lg font-semibold mb-2">{producto.nombre}</h3>
-                <p className="text-indigo-700 font-bold mb-2">{producto.precio} €</p>
+                <p className="text-indigo-700 font-bold mb-2">{producto.precio} $</p>
                 <a href="#" className="text-indigo-600 hover:underline font-medium">
                   Ver Detalles
                 </a>
